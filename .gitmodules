@@ -1,0 +1,6 @@
+[submodule "kiter"]
+	path = kiter
+	url = git@github.com:jkmingwen/kiter.git
+[submodule "faust"]
+	path = faust
+	url = git@github.com:jkmingwen/faust.git
